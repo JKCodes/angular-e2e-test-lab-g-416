@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "## Objectives",
   "main": "spec/server.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.13.4"
+  },
   "devDependencies": {
     "express": "4.13.4"
   },
